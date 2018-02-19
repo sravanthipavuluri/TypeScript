@@ -1,0 +1,15 @@
+class asasd{
+    constructor(){
+
+    }
+
+    private sdsa(){
+
+    }
+    public asd(){
+
+    }
+}
+let as = new asd();
+
+as.
